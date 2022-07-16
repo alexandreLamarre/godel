@@ -134,6 +134,10 @@ only one node with on signed formula.
 - We also apply the convention that no occurrence of a formula is expanded more than once
 
 ALl of the above ensures that a tableau construction process always terminates (at least for PLNQ)
+
+For an overview of how the tableau calculus works, see the following wikipedia
+entries :
+https://en.wikipedia.org/wiki/Method_of_analytic_tableaux
 '''
 
 from dataclasses import dataclass
